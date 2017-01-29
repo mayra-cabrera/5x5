@@ -1,4 +1,4 @@
-5x5
+5x5 Input Parser
 ===
 
-5 x 5 input parser (CoffeeScript side project)
+CoffeeScript side project...
